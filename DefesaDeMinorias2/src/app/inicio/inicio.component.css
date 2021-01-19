@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'flood-std';
+    src: url("../../assets/fonts/flood-std.otf");
+}   
+.font{
+    font-family: 'flood-std';
+    font-size: 44px;
+}
